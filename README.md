@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joy2362
+- 👋 Hi, I’m Abdullah Zahid 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Laravel and nosql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Abdullahzahidjoy@gmail.com
 
