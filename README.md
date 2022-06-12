@@ -6,8 +6,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joy2362&theme=blue-green)
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=joy2362/Python)
-
 ![Profile views](https://gpvc.arturio.dev/joy2362)  <img src="https://img.shields.io/github/followers/joy2362?label=Follow" style=" float:left, margin-right:10px" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=joy2362&show_icons=true)
