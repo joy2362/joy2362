@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdullahzahidjoy@gmail.com
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joy2362&theme=blue-green)
+
 ![Profile views](https://gpvc.arturio.dev/joy2362)  <img src="https://img.shields.io/github/followers/joy2362?label=Follow" style=" float:left, margin-right:10px" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=joy2362&show_icons=true)
