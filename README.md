@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdullahzahidjoy@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/tarikulIslamNahid)  <img src="https://img.shields.io/github/followers/tarikulIslamNahid?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/joy2362)  <img src="https://img.shields.io/github/followers/joy2362?label=Follow" style=" float:left, margin-right:10px" />
 
 
 <!---
