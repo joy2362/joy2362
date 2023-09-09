@@ -16,8 +16,8 @@
 #### Now
 
 - ✨ Contributing to [CMS](https://github.com/joy2362/cms2) , [Educare](https://github.com/joy2362/educare_coching_center)
-- :fire: Interested in Problem solving and Web development
-- :calendar: Looking for contributing to PHP based open source projects 
+- :fire: Interested in Problem-solving and Web development
+- :calendar: Looking to contribute to PHP-based open-source projects 
 
 #### Bio
 
@@ -28,7 +28,7 @@
 - 💬 Ping me about **Laravel**, **PHP**, **API**, **Vuejs**, **nuxt.js**
 
 
-#### Development Stuffs:
+#### Development Stuff:
 
 <b>⚡ Github Stats</b>
 <p float="left">
